@@ -1,0 +1,12 @@
+# Secrets
+.env
+.certificates
+
+# Data
+data/
+
+# Dependencies
+node_modules/
+
+# Editor config
+.vscode/
